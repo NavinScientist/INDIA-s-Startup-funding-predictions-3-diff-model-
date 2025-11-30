@@ -4,10 +4,14 @@ This project aims to predict the funding amount received by Indian startups base
 
 # Objectives
 
-• Preprocess raw startup funding data and engineer meaningful analytical features
+• Preprocess raw startup funding data and engineer meaningful analytical features 
 • Perform rich Exploratory Data Analysis (EDA) to uncover market patterns and investor behaviour
 • Train and evaluate multiple machine learning models to estimate funding amounts
 • Identify the key factors that influence investor funding decisions
+
+# 📌 Dataset Notice:
+The dataset used in this project is confidential and cannot be shared publicly. 
+However, the repository includes complete code and notebooks to replicate the project using any similar dataset.
 
 # Methodology
 
